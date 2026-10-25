@@ -1,2 +1,27 @@
-# Alaska-Mix-Bus
-Alaska Mix Bus audio plugin for Windows (VST3/AAX) and macOS (VST3/AU).
+# Alaska Mix Bus
+
+**Audio plugin for Windows and macOS**
+
+![Alaska Mix Bus interface](assets/alaska-mix-bus.png)
+
+## Download
+
+| Platform | Formats | Installer |
+| --- | --- | --- |
+| Windows | VST3 · AAX | [**Download for Windows**](https://github.com/AntonioCalla27/Alaska-Mix-Bus/releases/latest/download/Alaska_Mix_Bus_Setup_1.0.0.exe) |
+| macOS | VST3 · AU | [**Download for Mac**](https://github.com/AntonioCalla27/Alaska-Mix-Bus/releases/latest/download/Alaska_Mix_Bus_macOS_Local_Installer.pkg) |
+
+Current release: **1.0.0**.
+
+[Release page](https://github.com/AntonioCalla27/Alaska-Mix-Bus/releases/latest) · [Download checksums](https://github.com/AntonioCalla27/Alaska-Mix-Bus/releases/latest/download/SHA256SUMS.txt)
+
+## Installation
+
+1. Download the installer for your operating system.
+2. Close your audio application and run the installer.
+3. Reopen your audio application and rescan its plugins if needed.
+4. Find **Alaska Mix Bus** in the plugin browser.
+
+## MultiVerse Prod.
+
+[Website](https://multiverseprod.netlify.app/) · [Plugins](https://multiverseprod.netlify.app/plugins.html)
